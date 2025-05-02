@@ -1,4 +1,14 @@
-# Bienvenue sur mon profil ! 👋🏻
+<p align="center">
+<img src="img/logo-julien.svg" alt="Logo de Julien Beauchant" width="500" height="">
+</p>
+<blockquote>
+
+# Bienvenue sur mon profil ! 👋🏻  
+
+*Bienvenue sur mon profil !*  
+
+</blockquote>
+<hr>
 
 <!--
 **julienbeauchant/julienbeauchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
